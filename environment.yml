@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - black
+  - flake8
+  - jupyter-book
+  - mypy
+  - pip
+  - pytest
+  - python
